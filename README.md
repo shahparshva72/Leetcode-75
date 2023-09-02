@@ -1,2 +1,10 @@
 # Leetcode-75
+
 Leetcode-75 problem and solutions 
+
+| Problem Name                                                                                                                                                            | Python Solution                                                          | Swift Solution                                                            | Level |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------:|:-------------------------------------------------------------------------:| ----- |
+| [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75)                         | [Python](Python/Greatest%20Common%20Divisor%20of%20Strings.py)           | [Swift](Swift/Greatest%20Common%20Divisor%20of%20Strings.swift)           | Easy  |
+| [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75) | [Python](Python/Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) | [Swift](Swift/Kids%20With%20the%20Greatest%20Number%20of%20Candies.swift) | Easy  |
+| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75)                                           | [Python](Python/Merge%20Strings%20Alternately.py)                        | [Swift](Swift/Merge%20Strings%20Alternately.swift)                        | Easy  |
+| [Move Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75)                                                                       | [Python](Python/Move%20Zeroes.py)                                        | [Swift](Swift/Move%20Zeroes.swift)                                        | Easy  |
